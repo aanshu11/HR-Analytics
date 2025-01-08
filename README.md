@@ -194,7 +194,7 @@ Retention rates have shown a steady improvement, reaching **97.3%** in 2019.
 ## Video Demo  
 
 Watch the demo of the HR Analytics Dashboard:  
-[![HR Analytics Demo](https://example.com/hr-demo-thumbnail.png)](https://youtu.be/example-link)  
+[![HR Analytics Demo](https://example.com/hr-demo-thumbnail.png)](https://youtu.be/gSWSXO7F-zE)  
 
 ## Conclusion  
 
