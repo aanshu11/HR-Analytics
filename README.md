@@ -1,5 +1,5 @@
 
-# HR Analytics Dashboard  
+# HR Analytics Report  
 
 ![HR Report Cover](https://github.com/user-attachments/assets/7de34937-ba39-4085-965e-02a7c348394d)
 
